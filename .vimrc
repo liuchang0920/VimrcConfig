@@ -5,7 +5,8 @@ set nu
 set encoding=utf-8
 set t_Co=256
 set background=dark
-colorscheme molokai
+set termguicolors
+colorscheme material-monokai
 
 " setting for pyhton
 set smartindent
