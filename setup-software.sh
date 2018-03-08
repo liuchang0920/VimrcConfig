@@ -3,4 +3,5 @@
 sudo apt-get install curl
 sudo apt-get install vim
 sudo apt-get install git
+sudo apt-get install powertop
 sudo python3 -m pip install numpy scipy matplotlib pandas
